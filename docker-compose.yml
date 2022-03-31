@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  crawler:
+      build:
+        context: .
+        dockerfile: dockerfile
+      container_name: crawler
+      ports:
+        - 8888:8888
+      volumes:
+        - ./work:/home/jovyan
+      restart: always
