@@ -31,7 +31,7 @@
       <img width="592" alt="스크린샷 2022-03-31 오후 11 09 49" src="https://user-images.githubusercontent.com/56839474/161075355-163ce0c0-bd6e-43e8-93bc-1ad139fd56e1.png">
 
 ## Logined View
-> 모든 작업 파일은 ```work``` 디렉터리에 영구적으로 저장됩니다.
+> 모든 작업 파일은 [work](https://github.com/modern-agile-team/docker-for-crawler/tree/master/work) 디렉터리에 영구적으로 저장됩니다.
 <img width="1440" alt="스크린샷 2022-03-31 오후 11 11 34" src="https://user-images.githubusercontent.com/56839474/161075645-8ea93daa-ab8b-4d57-94e0-4b46fdb6943f.png">
 
 ## Exit or Termination
