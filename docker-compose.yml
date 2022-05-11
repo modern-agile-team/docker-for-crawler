@@ -6,6 +6,8 @@ services:
         context: .
         dockerfile: dockerfile
       container_name: crawler
+      image: crawler_image
+      user: root
       ports:
         - 8888:8888
       volumes:
